@@ -1,0 +1,1 @@
+my_tile_map = layer_tilemap_get_id("Tiles_1");	//get corresponding tile set

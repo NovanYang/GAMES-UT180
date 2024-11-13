@@ -1,0 +1,9 @@
+global.hight_score = 0;
+global.player_score = 0;
+global.player_health = 3;
+global.roll_number = 3;
+global.fire_upgrade = false;
+global.second_upgrade = false;
+global.kill_count = 0;
+global.enemy_count = 91;
+global.win = false;

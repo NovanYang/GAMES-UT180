@@ -1,0 +1,1 @@
+instance_create_layer(150, -40, "Instances", obj_health_pack);

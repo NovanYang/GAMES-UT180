@@ -1,0 +1,1 @@
+instance_create_layer(100, -40, "Instances", obj_fire_upgrade);

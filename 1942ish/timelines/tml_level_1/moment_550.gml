@@ -1,0 +1,1 @@
+instance_create_layer(600, -90, "Instances", obj_enemy_gray_left);

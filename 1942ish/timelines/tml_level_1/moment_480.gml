@@ -1,0 +1,1 @@
+instance_create_layer(130, room_height+100, "Instances", obj_enemy_type2_1);
